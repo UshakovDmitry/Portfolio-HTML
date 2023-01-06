@@ -85,7 +85,7 @@ meter {
 
 body {
     font-family: 'Roboto', sans-serif;
-    color: #38464C;
+    color: #38454B;
 }
 
 a {
@@ -99,7 +99,7 @@ a:hover {
 
 @media (prefers-color-scheme: dark) {
     body {
-        background-color: #38464C;
+        background-color: #38454B;
         color: #c8cbcd;
     }
 
@@ -115,7 +115,7 @@ a:hover {
 
 .main {
     margin: auto;
-    width: 47.5rem;
+    width: 55rem;
 }
 
 .content__hello {
