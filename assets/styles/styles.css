@@ -115,11 +115,16 @@ a:hover {
 
 .main {
     margin: auto;
-    width: 60rem;
+    width: 80rem;
+    background-color: #3F4C53;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 .content__hello {
     display: flex;
+    align-items: center;
+    justify-content:space-around;
     margin-top: 4.2rem;
     margin-bottom: 5rem;
     font-size: 38px;
@@ -127,10 +132,10 @@ a:hover {
 }
 
 .content__hello-img {
-    width: 142px;
-    height: 142px;
-    min-width: 142px;
-    border-radius: 50%;
+    width: 350px;
+    height: 350px;
+    min-width: 350px;
+    border-radius: 45%;
     border: 3px solid silver;
 }
 
